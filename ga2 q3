@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>My Work — Portfolio</title>
+</head>
+<body>
+  <header>
+    <h1>My Work</h1>
+    <p>Welcome — examples of projects and demo links live here.</p>
+  </header>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Project A</strong> — short description.</li>
+      <li><strong>Project B</strong> — short description.</li>
+      <li><strong>Project C</strong> — short description.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Contact: <!--email_off-->23f2003906@ds.study.iitm.ac.in<!--/email_off--></p>
+    <p>Built with GitHub Pages</p>
+  </footer>
+</body>
+</html>
+
